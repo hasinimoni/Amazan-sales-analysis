@@ -3,6 +3,7 @@ Amazon India sales data turned into an interactive Excel/Power BI-driven dashboa
 
 
 📊 Sales Analysis Dashboard
+
 A sales analysis project built using Excel PivotTables/PivotCharts and Power BI, exploring sales performance by category, state, city, and month.
 
 🛠️ Tools Used

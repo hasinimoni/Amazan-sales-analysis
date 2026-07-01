@@ -1,7 +1,8 @@
 # Amazan-sales-analysis
 Amazon India sales data turned into an interactive Excel/Power BI-driven dashboard.
-📊 Sales Analysis Dashboard
 
+
+📊 Sales Analysis Dashboard
 A sales analysis project built using Excel PivotTables/PivotCharts and Power BI, exploring sales performance by category, state, city, and month.
 
 🛠️ Tools Used
@@ -24,19 +25,19 @@ Power BI Dashboard with Salesperson, City, and Product Type filters
 🖼️ Screenshots
 
 Total Sales by Category
-Show Image
+![Total Sales by Category](01-category-pivotchart.png)
 
 Top 10 Selling States
-Show Image
+![Top 10 Selling States](02-category-chart-selected.png)
 
 Category & Monthly Trend
-Show Image
+![Category & Monthly Trend](03-category-and-monthly-trend-pivot.png)
 
 Top States & Cities
-Show Image
+![Top States & Cities](04-state-city-pivotcharts.png)
 
 Power BI Dashboard
-Show Image
+![Power BI Dashboard](05-salesperson-productmix-powerbi.png)
 
 🔍 Key Insights
 

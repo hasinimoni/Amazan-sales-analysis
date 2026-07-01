@@ -59,4 +59,4 @@ Open the .pbix file in Power BI Desktop to interact with the dashboard
 
 🙋 Author
 
-MONISHA — GitHub: https://github.com/hasinimoni/Amazan-sales-analysis
+MONISHA — GitHub: https://github.com/hasinimoni
